@@ -1,6 +1,5 @@
 # rocket-scout
 A data driven approach to hockey scouting.
-markdown
 
 # NHL Hut Builder Data Scraper
 
@@ -15,7 +14,7 @@ This repository contains a script for scraping player data from [NHL Hut Builder
 
 1. Clone the repository to your local machine:
 
-```bash
+bash
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
 
